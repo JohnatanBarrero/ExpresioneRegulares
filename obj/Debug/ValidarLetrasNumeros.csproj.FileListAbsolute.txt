@@ -1,0 +1,7 @@
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\bin\Debug\ValidarLetrasNumeros.exe.config
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\bin\Debug\ValidarLetrasNumeros.exe
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\bin\Debug\ValidarLetrasNumeros.pdb
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\obj\Debug\ValidarLetrasNumeros.csprojAssemblyReference.cache
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\obj\Debug\ValidarLetrasNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\obj\Debug\ValidarLetrasNumeros.exe
+C:\Users\Bambam\source\repos\ValidarLetrasNumeros\ValidarLetrasNumeros\obj\Debug\ValidarLetrasNumeros.pdb
